@@ -58,3 +58,7 @@ ZIF-8 N₂ export checked: is_porous=False, POAV=0, estimated saturation=0, Inpu
 ## Project completed
 
 Notebook completed with seven executed code cells, saved tables and three plots. pyIAST 1.4.3 installed only in /tmp/block2-project-deps for execution; users need pyiast in their notebook environment. Four complete materials ranked NOTT-300 > Mg-MOF-74 > UTSA-20 > UTSA-80. WC: 2.786, 1.020, 0.490, 0.198 mmol/g; selectivity: 30.02, 27.10, 10.10, 5.19. Independent analytical piecewise-linear IAST calculation matched pyIAST in all eight states within 1e-6 relative tolerance. ZIF-8 unranked with documented geometric screening limitation. Same feed composition assumed at desorption; no high-pressure extrapolation, but low-pressure origin interpolation is required and explicitly discussed. All exports report 298 K.
+
+## UTSA-20 original export received — 15 October 2026
+
+Desktop/2842.csv copied unchanged to UTSA-20_pore_analysis.csv and now used by the project notebook, superseding UTSA-20_pore_screenshot.csv. The four transcribed properties match exactly. The export additionally supplies unit-cell volume 5683.56 Å³, ASA 2607.1 m²/g, POAV 0.712909 cm³/g and 100,000 surface/volume samples with a 1.525 Å probe. Pore-analysis cell rerun and displayed output refreshed; porosity cross-check passes. Separation results are unaffected. The old screenshot CSV is retained only for provenance.
