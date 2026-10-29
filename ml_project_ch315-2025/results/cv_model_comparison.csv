@@ -1,0 +1,5 @@
+model,CV MAE
+Tuned KRR,1.043321977135513
+Random-search KRR,1.043321977135513
+Univariate-selection KRR,1.0440906141299502
+Variance-selection KRR,1.063491091395318
